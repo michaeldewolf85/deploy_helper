@@ -1,0 +1,3 @@
+name = Deploy Helper
+description = Configures deploy to both send and recieve and provide hooks to integrate it with custom modules.
+core = 7.x
